@@ -1,0 +1,16 @@
+[
+{
+  "modid": "g-tech",
+  "name": "Lucraft Core: SpeedsterHeroes: HeroesExpansion: TechExpansion",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Grayson"],
+  "credits": "Lucraft, for the core and the other mods",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
